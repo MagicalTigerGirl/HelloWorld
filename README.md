@@ -10,6 +10,8 @@ Subir proyecto a GitHub
 
 - Volvemos a dirigirnos a Ajustes para vincularlo con nuestra cuenta de GitHub.
 
+- Para que no se suban al repositorio todas las carpetas refactorizamos el .gitignore y además añadimos *.gitignore.
+
 - Ahora nos dirijimos a compartir proyecto en GitHub para así subirlo al repositorio que creemos. Solo nos queda realizar un commit y un push y ya tendremos subido nuestro proyecto.
 
 Proyecto Hola Mundo
